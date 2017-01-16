@@ -3,16 +3,16 @@ layout: page
 title: I am
 ---
 
-# a writer.
+# a writer
 
 <br>
 
-# I ache with aspiration,
+# I ache with aspiration
 
 <br>
 
-### creating meaning through words,
+### Words hold power
 
 
 
-### which I write down.
+### Words have meaning
