@@ -1,6 +1,18 @@
 ---
 layout: page
-title: About me 
+title: I am
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+# a writer.
+
+<br>
+
+# I ache with aspiration,
+
+<br>
+
+### creating meaning through words,
+
+
+
+### which I write down.
