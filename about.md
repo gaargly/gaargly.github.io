@@ -7,5 +7,6 @@ title: i am
 <br>
 like you,
 i ache with aspiration.
-### i burn to be great
-### and to be free.
+
+i burn to be great
+and to be free.
