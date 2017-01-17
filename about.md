@@ -1,18 +1,15 @@
 ---
 layout: page
-title: I am
+title: i am
 ---
 
-# a writer
+# gaargly, a writer.
 
 <br>
 
-# I ache with aspiration
+# like you,
+# i ache with aspiration.
 
 <br>
-
-### Words hold power
-
-
-
-### Words have meaning
+### i burn to be great
+### and to be free.

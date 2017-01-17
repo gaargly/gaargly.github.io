@@ -1,6 +1,7 @@
 name: Behold these
-description: wondrous musings
-meta_description: "Living a purposeful life"
+description: ☼ wondrous musings  ☼
+meta_description: "Living a meaningful life of purpose"
+keywords: "life, living, purpose, meaning, purposeful, meaningful"
 
 markdown: kramdown
 highlighter: rouge
@@ -9,7 +10,8 @@ paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
+
 
 # Details for the RSS feed generator
 url:            'https://gaargly.github.io'
