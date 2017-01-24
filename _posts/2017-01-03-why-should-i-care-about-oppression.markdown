@@ -61,7 +61,7 @@ It will be like a game that we play for a short period of time and then you can 
 
 ## In this post, I’m going to talk about the last question: **Why should I care?**
 <br>
-Caring about something simply means that you are choosing to invest some amount of energy into it. The form of investment can range from spending just a few moments thinking about the thing you care about, to more effort in the form of talking about it with your friends and loved ones, all the way to physically getting up and going somewhere to do something that advances the thing that you care about.
+Caring about something simply means that you are choosing to invest some amount of energy into it. The form of investment can range from spending just a few moments thinking about the thing you care about, to more effort in the form of talking about it with your friends and loved ones, all the way to actually going somewhere to do something that advances the thing that you care about.
 
 I don’t judge you for caring about the things that you care about. We were all taught to care about basics such as air and food and water and shelter, from a young age. We also learned about family structures and companionship from our experiences as children, and probably more as we grew and entered different kinds of adult relationships. We learned about some higher-level needs such as the concept of "having a meaningful life" as we perhaps associated with philosophy-minded friends, teachers, and colleagues.
 
@@ -69,7 +69,7 @@ I really think that everything that we care about comes down to its impact on ou
 
 We assume a stance on, for example, immigration, because we want to ensure that we have our basic needs met. Maybe we are afraid that if we don’t make it across a border today, that we will die. On the other side of that same border, maybe we are afraid that if someone *does* make it across that line today, that *we* will die.
 
-Or maybe it’s not so dire, maybe it’s not about life or death. But maybe it’s about food, or land, or shelter. We seek to go where we can have our needs met. No one wants to sit around waiting to starve, waiting to be without a home. When confronted with these possibilities, most of us choose to take some kind of action, and seek a better way, for ourselves, for our families, for our loved ones.
+Or maybe it’s not so dire, maybe it’s not about life or death. But maybe it’s about food, or land, or shelter. We seek to go where we can have our needs met. No one wants to idle around waiting to starve, waiting to be without a home. When confronted with these possibilities, most of us choose to take some kind of action, and seek a better way, for ourselves, for our families, for our loved ones.
 
 Sometimes, we are in a different position -- the position of having our needs met, but we are afraid that what we have will be taken from us. Snatched away. We might be fine now, but perhaps we perceive a threat to how things could be a year from now or some decades from now. What if the things that we built are taken away from our children after we’re gone? How will they survive?
 
@@ -91,17 +91,17 @@ I think this common interest can give us strength. This is *all* of our MO. This
 
 Our lives are limited and we have finite energy and everything that we do roughly falls into these two categories of surviving or thriving.
 
-Trying survive and trying to thrive are the *only* things to do. Survival means the same things for all of us -- breathing, eating, living to see another day. Thriving might assume different forms for each of us individually. But the verbs are the same for us all, and have been the same since the beginning of human history.
+Trying to survive and trying to thrive are the *only* things to do. Survival means the same things for all of us -- breathing, eating, living to see another day. Thriving might assume different forms for each of us individually. But the verbs are the same for us all, and have been the same since the beginning of human history.
 
-So, what is the reason we should care about those phrases I mentioned at the very beginning of this post, all the ones that end in "-isms" and “-phobias”?
+So, what is the reason we should care about those phrases I mentioned at the very beginning of this post, all the ones that end in -isms and -phobias?
 
 ## We should care because these phrases help us understand better how to survive and how to thrive.
 <br>
-These phrases help us name the feelings we get when our lives are at stake, when we are under serious threat, when our very bodies might perish if we fail to understand what is happening around us. It is critical to have a deep knowledge of our environment, if we are to, for example, not get hit by a bus when crossing a road, or not get shot by somebody who is scared of us. These phrases that end in "-isms" and “-phobias” are simply names for concepts about our environment.
+These phrases help us name the feelings we get when our lives are at stake, when we are under serious threat, when our very bodies might perish if we fail to understand what is happening around us. It is critical to have a deep knowledge of our environment, if we are to, for example, not get hit by a bus when crossing a road, or not get shot by somebody who is scared of us. These phrases that end in -isms and -phobias are simply names for concepts about our environment.
 
 Sometimes, we understand the concepts quite intuitively. We may not call them these same names. But *getting* these concepts, on either a named or an unnamed level, can be the difference between life or untimely death. *Understanding* these concepts can be the difference between reaching our potential as human beings, and dying without achieving our dreams.
 
-Say you learn what an "-ism" is, but it doesn’t seem applicable to your own life. In this case, imagine that someone you know is asking you to consider how this concept could apply to their life. Imagine that a friend with a different background or different characteristics or different preferences from yours, who nonetheless is trying to achieve the same exact thing as you are in life (i.e. survive and/or thrive), is affected by something in their environment, and they are using a word that ends in “-ism” or “-phobia” to describe their experience. They are trying to describe to you their understanding of their environment. They are telling you about something that matters very much to them, because it gets down to the core of what their life is about -- and it is the same core as what your life is about. They want to use their understanding to process what is happening to them. They are trying to share that understanding with you.
+Say you learn what an "-ism" is, but it doesn’t seem applicable to your own life. In this case, imagine that someone you know is asking you to consider how this concept could apply to their life. Imagine that a friend with a different background or different characteristics or different preferences from yours, who nonetheless is trying to achieve the same exact thing as you are in life (i.e. survive and/or thrive), is affected by something in their environment, and they are using a word that ends in -ism or -phobia to describe their experience. They are trying to describe to you their understanding of their environment. They are telling you about something that matters very much to them, because it gets down to the core of what their life is about -- and it is the same core as what your life is about. They want to use their understanding to process what is happening to them. They are trying to share that understanding with you.
 
 Isn’t it inherently interesting to explore these matters of life and death with people?
 
@@ -115,7 +115,9 @@ We are all carrying heavy things, and we are all trying to go places. It helps t
 
 For the exact reason that it helps *you* when someone listens to *your* story about what happened to you today and the impact that it had on you. It helps when someone listens to your understanding of your environment and how it has influenced your chances of survival and prosperity.
 
-Being surrounded by successful people is how *we* get successful. Do children who have parents to help them with homework do better in school? Do employees who have supervisors to mentor them do better in their careers? Do peers who hear about the life experiences of others learn new ways to enrich their own lives?
+Being surrounded by successful people is how *we* get successful. Do children who have adults around to help them with homework do better in school? Do employees who have supervisors to mentor them do better in their careers? Do peers who hear about the life experiences of others learn new ways to enrich their own lives?
+
+Do you do better when you have other people who are showing you what they know so that you can know it too?
 
 Of course!
 
