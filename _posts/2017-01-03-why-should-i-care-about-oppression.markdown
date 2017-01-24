@@ -51,7 +51,7 @@ So already, we’re on the defensive when it comes to the -isms and the -phobias
 
 And they are also hard words, complex words, words that almost feel designed by conspirators to elude understanding.
 
-In my experience, people sometimes do try to learn what these terms mean. Maybe you have a story about asking someone to define what they mean when they call something "racist". Maybe conversation went well. Or maybe it dangerously veered off course, threatening the very foundation of your connection with this person.
+In my experience, people sometimes do try to learn what these terms mean. Maybe you have a story about asking someone to define what they mean when they call something "racist". Maybe that conversation went well. Or maybe it dangerously veered off course, threatening the very foundation of your connection with this person.
 
 So why bother thinking about these Pandora’s boxes?
 
