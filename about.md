@@ -1,12 +1,10 @@
 ---
 layout: page
-title: i am
+title: I am
 ---
 
-# gaargly, a writer.
+# a citizen of the United States of America.
 <br>
-like you,
-i ache with aspiration.
+So many people have struggled to win the freedoms that I have.
 
-i burn to be great
-and to be free.
+I seek to understand our lives and our freedoms by reading and writing about what I learn.
