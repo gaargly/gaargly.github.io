@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Analyzing Oppression"
+description: "Understanding oppression"
+keywords: "oppression, exploitation, marginalization, powerlessness, cultural dominance, violence"
+date:   2018-01-15 14:45:00
+categories: Oppression Social-Justice
+---
+<br>
 I work in tech because I fell into it and now, here I am, and it's pretty fun, and seems like we occasionally create useful things.
 
 A while ago, while browsing online, I came across a job description that called for "experience in oppression analysis", and I was like, I wonder what that is.
