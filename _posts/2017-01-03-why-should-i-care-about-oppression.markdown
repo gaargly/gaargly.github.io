@@ -15,7 +15,7 @@ What is sexism?
 
 What is feminism?
 
-What is *intersectional* feminism?
+What is intersectionality?
 
 What is homophobia?
 
