@@ -15,7 +15,7 @@ The phrase "oppression analysis" rang a bell for me, pretty faintly. In college,
 
 I wondered, then, upon coming across this job requirement, what it means to analyze oppression in a systematic way -- what would the curriculum be if one were to take an "Analysis of Oppression" course at like a liberal arts institution.
 
-I began googling and found some resources, one of which is this paper, []"A Structural Analysis of Oppression", authored by Sandra Hinson and Alexa Bradley.] (http://www.racialequitytools.org/resourcefiles/structural_analysis_oppression.pdf)
+I began googling and found some resources, one of which is this paper, ["A Structural Analysis of Oppression", authored by Sandra Hinson and Alexa Bradley.] (http://www.racialequitytools.org/resourcefiles/structural_analysis_oppression.pdf)
 
 This paper calls for "ways of talking about the intersections of race and class that lift up our similarities while honoring our differences", particularly in the context of grassroots movements.
 
