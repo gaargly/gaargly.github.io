@@ -26,23 +26,23 @@ They define oppression as a type of structure in which people live, in which oth
 Oppression is not necessarily intentional, and memberships in these groups is not necessarily voluntary or acknowledged.
 
 tl;dr, one way of looking at oppression categories oppression into five forms, the definitions of which I summarize at a very high level below:
-
+<br>
 ### Exploitation
 
 Exploitation is when the haves benefit from controlling the have-nots. Different class, race, and gender groups experience exploitation in different ways.
-
+<br>
 ### Marginalization
 
 Marginalization is exclusion via stigmatization or other means, particularly exclusion out of labor markets i.e. exclusion out of being named as productive members of society.
-
+<br>
 ### Powerlessness
 
 Powerlessness is when people are routinely shut out of decisions that affect the basic conditions of their lives.
-
+<br>
 ### Cultural Dominance
 
 Cultural Dominance is the way that one group's experiences, cultural expressions, and history are defined as superior to all other groups' experiences and histories -- either explicitly, or implicitly when the superiority is treated as universal, optimal, or normal.
-
+<br>
 ### Violence
 
 Violence is when people live in fear of attacks that are meant to humiliate and/or destroy them because of their membership in certain social groups. This include feeling under threat as a result of ongoing harassment, as well as outright violent acts.
