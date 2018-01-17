@@ -10,26 +10,27 @@ categories: Voting-Rights Democracy California
 I participated in the ACLU of Northern California's [Webinar on Voting Rights](https://www.aclunc.org/get-involved/events/building-our-future-voting-rights-webinar)...
 
 And learned a bunch of stuff!
-<br>
-## California is ranked 49th in voter registration for eligible voters
+
+<br><br>
+### California is ranked 49th in voter registration for eligible voters
 
 Aka we're close to the bottom when it comes to registered elible voters.
 <br>
-## 1 in 5 eligible voters are _not_ registered in California
+### 1 in 5 eligible voters are _not_ registered in California
 
 That's *more than 5.5 million Californians* who could be voting but are not because they are not registered!
 <br>
-## Barriers to voter registration include work, school, and lack of access to childcare
+### Barriers to voter registration include work, school, and lack of access to childcare
 
 But...
 <br>
-## Same Day Registration (SDR) can increase turnout by as much as 10% !
+### Same Day Registration (SDR) can increase turnout by as much as 10% !
 
 SDR allows voters to correct their registration and cast their votes on the same day.
 
 Some states have implemented this and seen improved voter turnout, and California can implement this, but this requires local engagement and grassroots power to implement.
 <br>
-## LAACs i.e. Language Accessibility Advisory Committees can improve access to voting
+### LAACs i.e. Language Accessibility Advisory Committees can improve access to voting
 
 San Mateo County in the SF Bay Area has an LAAC.
 
