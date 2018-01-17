@@ -36,6 +36,6 @@ Some states have implemented this and seen improved voter turnout, and Californi
 
 ### LAACs i.e. Language Accessibility Advisory Committees can improve access to voting
 
-San Mateo County in the SF Bay Area has an LAAC.
+[San Mateo County in the SF Bay Area has an LAAC.](https://www.shapethefuture.org/laac/)
 
 Local organizations who already [do voter registration drives](https://sites.google.com/view/sfcounty-voter-reg-drive/home) do voter registration drives are one place to go to start brainstorming how to set up a county LAAC to improve access to voting.
