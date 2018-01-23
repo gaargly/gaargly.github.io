@@ -6,7 +6,7 @@ keywords: "voting rights, democracy, california, san francisco, voter registrati
 date:   2018-01-18 22:00:00
 categories: Voting-Rights Democracy California Voter-Registration San-Francisco Womens-March 2018
 ---
-
+<br>
 On Saturday, January 20 2018, I marched with the [Women's March in San Francisco](https://www.facebook.com/events/1942264432450715/).
 
 ## I ended up going with 9 other friends and this is how we did it:
@@ -25,7 +25,7 @@ On Saturday, January 20 2018, I marched with the [Women's March in San Francisco
 
 ## What I was disappointed by:
 
-* Last year, (about 100,000 people turned out for the inaugural Women's March)[http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/], so this year's turnout was half as big.
+* Last year,[about 100,000 people turned out for the inaugural Women's March](http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/), so this year's turnout was half as big.
 * Compared to last year, I found less media coverage about expected turnout before the SF March, and actual turnout after the SF March. In general, I suspect a less concerted effort to cover the march in San Francisco.
 * I felt an absence of specific resources to tackle the organizers' five levels of actions listed below:
 
