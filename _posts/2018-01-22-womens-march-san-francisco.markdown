@@ -19,7 +19,7 @@ On Saturday, January 20 2018, I marched with the [Women's March in San Francisco
 ## What I liked:
 
 * [Brittany Packnett](https://en.wikipedia.org/wiki/Brittany_Packnett) spoke at the rally and [she was amazing](https://twitter.com/maybeitsmagic/status/954850768615387136).
-* This year's march had solid [Unity Principles](http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/).
+* This year's march had solid [Unity Principles](http://womensmarchca.com/unity/).
 * It was really fun to march with friends and like [50,000 to 60,000 other people](http://abc7news.com/politics/womens-march-participants-flood-san-francisco/2972358/)!
 
 
