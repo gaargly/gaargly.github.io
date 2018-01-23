@@ -7,9 +7,9 @@ date:   2018-01-18 22:00:00
 categories: Voting-Rights Democracy California Voter-Registration San-Francisco Womens-March 2018
 ---
 
-## On Saturday, January 20 2018, I marched with the [Women's March in San Francisco](https://www.facebook.com/events/1942264432450715/).
+On Saturday, January 20 2018, I marched with the [Women's March in San Francisco](https://www.facebook.com/events/1942264432450715/).
 
-I ended up going with 9 other friends and this is how we did it:
+## I ended up going with 9 other friends and this is how we did it:
 
 * We met at a coffee shop near the march beforehand to gather and make signs, which was really fun. a
 * We walked over and attended the rally and met up with other friends there.
