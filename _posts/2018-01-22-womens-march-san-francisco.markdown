@@ -11,7 +11,7 @@ On Saturday, January 20 2018, I marched with the [Women's March in San Francisco
 
 ## I ended up going with 9 other friends and this is how we did it:
 
-* We met at a coffee shop near the march beforehand to gather and make signs, which was really fun. a
+* We met at a coffee shop near the march beforehand to gather and make signs, which was really fun.
 * We walked over and attended the rally and met up with other friends there.
 * We marched from Civic Center to the Embarcadero.
 
@@ -25,7 +25,7 @@ On Saturday, January 20 2018, I marched with the [Women's March in San Francisco
 
 ## What I was disappointed by:
 
-* Last year,[about 100,000 people turned out for the inaugural Women's March](http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/), so this year's turnout was half as big.
+* Last year, [about 100,000 people turned out for the inaugural Women's March](http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/), so this year's turnout was half as big.
 * Compared to last year, I found less media coverage about expected turnout before the SF March, and actual turnout after the SF March. In general, I suspect a less concerted effort to cover the march in San Francisco.
 * I felt an absence of specific resources to tackle the organizers' five levels of actions listed below:
 
