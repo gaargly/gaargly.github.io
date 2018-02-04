@@ -8,8 +8,9 @@ categories: Voting-Rights Democracy California Voter-Registration San-Francisco 
 ---
 <br>
 
+And...
 
-## It was a mixed bag.
+## it was a mixed bag.
 
 * Before the event, I wasn't sure what the training would entail. Based on some of the ACLU's messaging, a friend and I figured they'd focus on local advocacy training around three issues: voting rights, criminal justice, and reproductive rights.
 * I ended up attending with three other friends, one of whom flew in from San Diego to attend this training together in San Francisco.
