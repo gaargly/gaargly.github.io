@@ -35,7 +35,7 @@ And...
 
 * Much of the training occurred in lengthy classroom-style slideshow presentations. I felt talked at rather than talked with.
 * I learned from my community organizer friend that the ACLU apparently does not invest in community organizers who are leaders in the communities impacted by the very things they were talking about. The ACLU instead invests in lawyers and administrators.
-* Building strong relationships with members of their communities are a foundational element of the community organizing process, and the ACLU seems to lack that. It felt weird to go to a place to hear about heartbreaking things like racist policing, criminalization of communities of color, and mass incarceration -- primarily through slide-ware, and to then leave without having made new, compelling relationships with other people who are invested in action.
+* Building strong relationships with members of their communities are a foundational element of the community organizing process, and the ACLU seems to lack that. It felt weird to go to a place to hear about heartbreaking things like racist policing, criminalization of communities of color, and mass incarceration -- primarily through slideware, and to then leave without having made new, compelling relationships with other people who are invested in action.
 * This event was in San Francisco! A city famous for its progressive politics! _And_ the ACLU is a very prestigious, well-resourced, and well-known organization. It felt dissonant to be at a well-attended training where the turnout was a surprise to the organizers and most of what happened was being talked at for several hours. We can do better in San Francisco and as members of the ACLU!
 
 
