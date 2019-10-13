@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-description: "American Civic Engagement in 2017 and beyond"
-keywords: "United-States Civic-Engagement Democracy Justice"
+description: "Programming"
+keywords: "programming"
 date:   2013-11-10 10:18:00
-categories: Blog Politics Civic-Engagement
+categories: Programming
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

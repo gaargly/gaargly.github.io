@@ -1,7 +1,7 @@
-name: Adventures in
-description: ☼ Civic Engagement  ☼
-meta_description: "thinkin bout stuff"
-keywords: "life, justice, oppression, freedom"
+name: Programming projects
+description:
+meta_description: "Programming projects"
+keywords: "programming"
 
 markdown: kramdown
 highlighter: rouge
